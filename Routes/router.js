@@ -51,4 +51,4 @@ router.delete('/empty-cart',jwtMiddleware,cartController.emptyCartController)
 
 
 
-module.exports = router
+module.exports = router;
